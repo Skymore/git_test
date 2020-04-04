@@ -1,0 +1,3602 @@
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+	Crashed!
+	Total Step: 154
+	Score: -2006.7022698
+Episode 2:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 207
+	Score: -1994.46154011
+Episode 3:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 218
+	Score: 202.170592281
+Episode 4:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 294
+	Score: -2006.45573736
+Episode 5:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 309
+	Score: -2001.53298666
+Episode 6:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 402
+	Score: -1998.12479397
+Episode 7:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 420
+	Score: -2005.7001328
+Episode 8:
+	Start!
+	New goal at -1.5, 0.5!
+	Crashed!
+	Total Step: 453
+	Score: -2020.15048067
+Episode 9:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 468
+	Score: -1992.81850591
+Episode 10:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 606
+	Score: -1996.19516729
+Episode 11:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 645
+	Score: -1997.48821369
+Episode 12:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 672
+	Score: -1997.337312
+Episode 13:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 740
+	Score: -1989.17493197
+Episode 14:
+	Start!
+	New goal at -1.5, 0.5!
+	Crashed!
+	Total Step: 766
+	Score: -2007.61689129
+Episode 15:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 787
+	Score: -2007.56645427
+Episode 16:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 893
+	Score: -2003.04409374
+Episode 17:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 921
+	Score: -2002.36035985
+Episode 18:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 945
+	Score: -2004.09933865
+Episode 19:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 997
+	Score: -2011.11878159
+Episode 20:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 1035
+	Score: 212.223920894
+Episode 21:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1052
+	Score: -2006.90133854
+Episode 22:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 1066
+	Score: -2006.77017656
+Episode 23:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 1122
+	Score: -1999.04527516
+Episode 24:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 1171
+	Score: 207.800058538
+Episode 25:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1249
+	Score: -2006.31893667
+Episode 26:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1306
+	Score: -1997.23936376
+Episode 27:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1333
+	Score: -1994.46470255
+Episode 28:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 1375
+	Score: -1989.45152435
+Episode 29:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 1441
+	Score: -2008.72399729
+Episode 30:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 1496
+	Score: -1990.51528808
+Episode 31:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1531
+	Score: -1998.74500012
+Episode 32:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1601
+	Score: -1994.75230826
+Episode 33:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1642
+	Score: -1998.52756775
+Episode 34:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 1714
+	Score: -1990.31302804
+Episode 35:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1743
+	Score: -2003.92253884
+Episode 36:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 1855
+	Score: -1985.18288475
+Episode 37:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1887
+	Score: -1989.15629798
+Episode 38:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1932
+	Score: -1993.80051484
+Episode 39:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 2012
+	Score: -1991.55341801
+Episode 40:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2050
+	Score: -1994.63043302
+Episode 41:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2064
+	Score: -2004.45063813
+Episode 42:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 2092
+	Score: -2002.42939409
+Episode 43:
+	Start!
+	New goal at 0.5, 1.5!
+reset weights
+	Crashed!
+	Total Step: 2119
+	Score: -2000.52330101
+Episode 44:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 2139
+	Score: -1995.97665288
+Episode 45:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 2181
+	Score: -1988.96239046
+Episode 46:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 2245
+	Score: -1997.06930307
+Episode 47:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 2359
+	Score: -1996.25837803
+Episode 48:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 2380
+	Score: -1985.11951285
+Episode 49:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2419
+	Score: -1996.84105692
+Episode 50:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 2454
+	Score: 208.35334943
+Episode 51:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2483
+	Score: -1993.15568873
+Episode 52:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 2518
+	Score: -1993.22063504
+Episode 53:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 2554
+	Score: -1983.15495723
+Episode 54:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 2559
+	Score: 201.242175905
+Episode 55:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 2590
+	Score: -1990.06717358
+Episode 56:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 2604
+	Score: 201.358180549
+Episode 57:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 2663
+	Score: -1983.55806677
+Episode 58:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 2732
+	Score: -1984.09725286
+Episode 59:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 2759
+	Score: 208.648343925
+Episode 60:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 2784
+	Score: -1987.23726276
+Episode 61:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 2814
+	Score: 208.966921751
+Episode 62:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 2943
+	Score: -1988.50161671
+Episode 63:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 3009
+	Score: -1980.92288636
+Episode 64:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 3085
+	Score: 223.114655318
+Episode 65:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 3101
+	Score: -1994.35195327
+Episode 66:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 3129
+	Score: -1991.55063568
+Episode 67:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3146
+	Score: 201.270504818
+Episode 68:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 3168
+	Score: -1989.57568878
+Episode 69:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 3174
+	Score: 201.622530341
+Episode 70:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 3194
+	Score: -1995.57098971
+Episode 71:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 3207
+	Score: -1993.34831346
+Episode 72:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3213
+	Score: 201.984664405
+Episode 73:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 3240
+	Score: -1994.53173579
+Episode 74:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 3288
+	Score: -1987.02281103
+Episode 75:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 3308
+	Score: -1990.49534895
+Episode 76:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3353
+	Score: 201.486557349
+Episode 77:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 3365
+	Score: 208.615760791
+Episode 78:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 3387
+	Score: -1987.15867887
+Episode 79:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3402
+	Score: 201.090852726
+Episode 80:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 3454
+	Score: -1994.43839586
+Episode 81:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 3473
+	Score: -1988.87096569
+Episode 82:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 3491
+	Score: 209.514538991
+Episode 83:
+	Start!
+	New goal at 0.5, 0.5!
+ Reached Goal!
+	Total Step: 3524
+	Score: 219.116965939
+Episode 84:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 3542
+	Score: -1993.65878991
+Episode 85:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 3577
+	Score: 212.347571021
+Episode 86:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 3649
+	Score: 223.242596408
+Episode 87:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 3678
+	Score: -1984.74034477
+Episode 88:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 3722
+	Score: -1986.34811526
+Episode 89:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 3737
+	Score: -1988.83223091
+Episode 90:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 3790
+	Score: -1977.75526305
+Episode 91:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 3813
+	Score: -1992.46878363
+Episode 92:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 3842
+	Score: -1990.70135028
+Episode 93:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 3876
+	Score: 208.789901897
+Episode 94:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 3919
+	Score: -1987.16048087
+Episode 95:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 3931
+	Score: -1990.2253457
+Episode 96:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 3942
+	Score: -1994.42074196
+Episode 97:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 3959
+	Score: -1992.91546945
+Episode 98:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 3974
+	Score: -1987.24373213
+Episode 99:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 3998
+	Score: -1984.04906996
+Episode 100:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 4034
+	Score: -1974.12692903
+Episode 101:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 4058
+	Score: -1991.00919427
+Episode 102:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+reset weights
+	Total Step: 4100
+	Score: 215.622099792
+Episode 103:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 4116
+	Score: -1994.77438875
+Episode 104:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 4147
+	Score: -1988.1700993
+Episode 105:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 4160
+	Score: 209.559124658
+Episode 106:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 4164
+	Score: 201.478511151
+Episode 107:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 4222
+	Score: 223.131687929
+Episode 108:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 4245
+	Score: -1991.54587359
+Episode 109:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 4255
+	Score: -1996.19128871
+Episode 110:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 4266
+	Score: -1994.4852882
+Episode 111:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 4311
+	Score: -1983.74162678
+Episode 112:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 4322
+	Score: 209.048955831
+Episode 113:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 4339
+	Score: -1990.39663535
+Episode 114:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 4392
+	Score: -1991.9909202
+Episode 115:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 4410
+	Score: 209.273945127
+Episode 116:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 4421
+	Score: 201.974548127
+Episode 117:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 4490
+	Score: -1976.47407419
+Episode 118:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 4539
+	Score: -1983.40740309
+Episode 119:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 4543
+	Score: 201.584470903
+Episode 120:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 4580
+	Score: 224.408169848
+Episode 121:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 4612
+	Score: -1983.73255725
+Episode 122:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 4616
+	Score: 201.635279059
+Episode 123:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 4636
+	Score: -1991.40448134
+Episode 124:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 4678
+	Score: -1977.83741623
+Episode 125:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4702
+	Score: -1994.72322065
+Episode 126:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 4748
+	Score: -1973.55469572
+Episode 127:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 4775
+	Score: -1989.0369034
+Episode 128:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 4796
+	Score: -1987.99825425
+Episode 129:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 4808
+	Score: -1990.17157534
+Episode 130:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 4835
+	Score: -1987.04489428
+Episode 131:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 4877
+	Score: 211.677379185
+Episode 132:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 4895
+	Score: -1989.12520498
+Episode 133:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 4914
+	Score: 212.112813066
+Episode 134:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 4932
+	Score: -1990.83895108
+Episode 135:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 4994
+	Score: -1980.01696968
+Episode 136:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 5028
+	Score: -1975.63280142
+Episode 137:
+	Start!
+	New goal at 1.5, 0.5!
+ Reached Goal!
+	Total Step: 5075
+	Score: 229.668132002
+Episode 138:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 5091
+	Score: 212.047639932
+Episode 139:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 5117
+	Score: -1992.21888078
+Episode 140:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 5138
+	Score: 212.475442423
+Episode 141:
+	Start!
+	New goal at 1.5, -1.5!
+ Reached Goal!
+	Total Step: 5229
+	Score: 233.075808409
+Episode 142:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 5255
+	Score: -1993.01031177
+Episode 143:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 5271
+	Score: -1992.98190662
+Episode 144:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5281
+	Score: 201.501840549
+Episode 145:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 5293
+	Score: -1990.15105381
+Episode 146:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 5326
+	Score: 215.85449717
+Episode 147:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 5352
+	Score: -1985.29458309
+Episode 148:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 5364
+	Score: 208.825336885
+Episode 149:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 5377
+	Score: 209.863911482
+Episode 150:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 5450
+	Score: -1970.45003519
+Episode 151:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 5484
+	Score: 224.139940179
+Episode 152:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5505
+	Score: 208.477344399
+Episode 153:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 5520
+	Score: -1988.88328114
+Episode 154:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 5554
+	Score: 224.349527089
+Episode 155:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5565
+	Score: 208.780093448
+Episode 156:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 5577
+	Score: -1993.34940439
+Episode 157:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5581
+	Score: 201.667460376
+Episode 158:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 5622
+	Score: 223.497906001
+Episode 159:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 5651
+	Score: 218.302040237
+Episode 160:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5656
+	Score: 201.856765915
+Episode 161:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 5668
+	Score: -1992.73609259
+Episode 162:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5675
+	Score: 201.12780404
+Episode 163:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 5693
+	Score: -1990.94144331
+Episode 164:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5706
+	Score: -1993.06706597
+Episode 165:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5727
+	Score: -1994.07545632
+Episode 166:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5731
+	Score: 201.630828598
+Episode 167:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 5752
+	Score: 212.032893951
+Episode 168:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 5767
+	Score: -1990.94244648
+Episode 169:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5782
+	Score: -1988.96029309
+Episode 170:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 5814
+	Score: 219.81965965
+Episode 171:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5827
+	Score: 209.50531361
+Episode 172:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 5857
+	Score: -1980.43477316
+Episode 173:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 5868
+	Score: -1990.69723805
+Episode 174:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5874
+	Score: 201.57971537
+Episode 175:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5894
+	Score: 208.64961556
+Episode 176:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 5908
+	Score: -1990.89769898
+Episode 177:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5912
+	Score: 201.791163297
+Episode 178:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 5926
+	Score: -1993.26077362
+Episode 179:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 5962
+	Score: 224.648018399
+Episode 180:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 5983
+	Score: -1986.20142229
+Episode 181:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6000
+	Score: -1990.71330289
+Episode 182:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6004
+	Score: 201.775707893
+Episode 183:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 6028
+	Score: 218.188379245
+Episode 184:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 6085
+	Score: -1976.08095562
+Episode 185:
+	Start!
+	New goal at 0.5, 1.5!
+reset weights
+	Crashed!
+	Total Step: 6103
+	Score: -1986.30906797
+Episode 186:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 6127
+	Score: -1987.12224673
+Episode 187:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 6141
+	Score: -1989.7296101
+Episode 188:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 6151
+	Score: -1992.03728656
+Episode 189:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6165
+	Score: -1988.79483973
+Episode 190:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 6187
+	Score: -1989.09239023
+Episode 191:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 6230
+	Score: 224.272718068
+Episode 192:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6249
+	Score: -1985.71737352
+Episode 193:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6264
+	Score: -1990.19183934
+Episode 194:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6272
+	Score: 201.855523378
+Episode 195:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6286
+	Score: -1987.2641468
+Episode 196:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 6298
+	Score: -1989.42835492
+Episode 197:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 6332
+	Score: -1971.21884371
+Episode 198:
+	Start!
+	New goal at 0.5, 0.5!
+ Reached Goal!
+	Total Step: 6358
+	Score: 219.086489001
+Episode 199:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 6384
+	Score: -1988.37677297
+Episode 200:
+	Start!
+	New goal at 1.5, -1.5!
+ Reached Goal!
+	Total Step: 6434
+	Score: 233.619407603
+Episode 201:
+	Start!
+	New goal at 1.5, -1.5!
+ Reached Goal!
+	Total Step: 6477
+	Score: 232.980559823
+Episode 202:
+	Start!
+	New goal at -0.5, 1.5!
+ Reached Goal!
+	Total Step: 6500
+	Score: 216.175631627
+Episode 203:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6504
+	Score: 201.801408697
+Episode 204:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 6528
+	Score: 219.236052739
+Episode 205:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6549
+	Score: -1987.37449387
+Episode 206:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 6560
+	Score: -1991.91813261
+Episode 207:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 6588
+	Score: 223.300795375
+Episode 208:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 6599
+	Score: -1990.8775304
+Episode 209:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 6617
+	Score: 212.447822939
+Episode 210:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 6631
+	Score: -1988.99851503
+Episode 211:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6660
+	Score: -1976.24766068
+Episode 212:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6671
+	Score: 208.950524011
+Episode 213:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 6688
+	Score: -1989.53849722
+Episode 214:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6692
+	Score: 201.455679845
+Episode 215:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 6710
+	Score: 212.217742938
+Episode 216:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6721
+	Score: 208.540320737
+Episode 217:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6738
+	Score: -1986.80420557
+Episode 218:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 6753
+	Score: 212.563951158
+Episode 219:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6773
+	Score: -1988.06973013
+Episode 220:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6784
+	Score: -1990.65289448
+Episode 221:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 6821
+	Score: 223.831718842
+Episode 222:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 6834
+	Score: 209.003052466
+Episode 223:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 6864
+	Score: -1973.67417076
+Episode 224:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6881
+	Score: -1990.21500815
+Episode 225:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 6907
+	Score: 223.908142208
+Episode 226:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6916
+	Score: 206.930664176
+Episode 227:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 6940
+	Score: 215.557621328
+Episode 228:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6953
+	Score: -1988.74655529
+Episode 229:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 6977
+	Score: -1988.02902202
+Episode 230:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 6991
+	Score: -1988.37642951
+Episode 231:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 7007
+	Score: -1990.06946445
+Episode 232:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7021
+	Score: -1988.80328826
+Episode 233:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7040
+	Score: -1985.66203383
+Episode 234:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7052
+	Score: 209.133076344
+Episode 235:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7056
+	Score: 201.43599601
+Episode 236:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7069
+	Score: 210.124864236
+Episode 237:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 7080
+	Score: -1993.38428842
+Episode 238:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7093
+	Score: -1988.42464003
+Episode 239:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7098
+	Score: 202.227408687
+Episode 240:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 7135
+	Score: 226.414035505
+Episode 241:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7139
+	Score: 201.342113348
+Episode 242:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 7157
+	Score: -1983.69131423
+Episode 243:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 7174
+	Score: -1989.43556306
+Episode 244:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7190
+	Score: -1988.43762126
+Episode 245:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7211
+	Score: -1986.91611659
+Episode 246:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7216
+	Score: 202.384570939
+Episode 247:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 7231
+	Score: 212.659549758
+Episode 248:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7249
+	Score: -1988.68392106
+Episode 249:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 7260
+	Score: -1991.2598395
+Episode 250:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7275
+	Score: -1988.0421778
+Episode 251:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 7290
+	Score: -1988.01769426
+Episode 252:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 7317
+	Score: 224.503630161
+Episode 253:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7332
+	Score: 209.095425044
+Episode 254:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7343
+	Score: 208.777592917
+Episode 255:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 7361
+	Score: -1988.12209007
+Episode 256:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 7399
+	Score: 223.751367079
+Episode 257:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 7416
+	Score: 212.553257318
+Episode 258:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7420
+	Score: 201.686658923
+Episode 259:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7440
+	Score: -1983.27350501
+Episode 260:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 7465
+	Score: -1984.26307953
+Episode 261:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7478
+	Score: -1988.0678483
+Episode 262:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7492
+	Score: -1987.40143754
+Episode 263:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7502
+	Score: 201.248563024
+Episode 264:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7506
+	Score: 201.584266305
+Episode 265:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7520
+	Score: -1987.73139974
+Episode 266:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7553
+	Score: -1972.95725611
+Episode 267:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7576
+	Score: -1985.26716289
+Episode 268:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 7596
+	Score: -1984.3352981
+Episode 269:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7631
+	Score: -1974.19120313
+Episode 270:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7645
+	Score: -1987.81687787
+Episode 271:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7676
+	Score: -1979.74606182
+Episode 272:
+	Start!
+	New goal at 1.5, -1.5!
+ Reached Goal!
+	Total Step: 7713
+	Score: 233.669635198
+Episode 273:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7760
+	Score: -1972.80033149
+Episode 274:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7773
+	Score: 209.716406215
+Episode 275:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7784
+	Score: 209.073277581
+Episode 276:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7788
+	Score: 201.648667128
+Episode 277:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7802
+	Score: 210.046442974
+Episode 278:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 7815
+	Score: -1988.86772262
+Episode 279:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7832
+	Score: -1986.63586242
+Episode 280:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7836
+	Score: 201.752284781
+Episode 281:
+	Start!
+	New goal at 1.5, 0.5!
+ Reached Goal!
+	Total Step: 7878
+	Score: 230.026499325
+Episode 282:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7910
+	Score: -1975.9012898
+Episode 283:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7925
+	Score: 207.716194546
+Episode 284:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7929
+	Score: 202.068938764
+Episode 285:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7933
+	Score: 201.583554914
+Episode 286:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 7944
+	Score: -1990.8984315
+Episode 287:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7959
+	Score: -1988.27944938
+Episode 288:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 7977
+	Score: 212.119719889
+Episode 289:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 8008
+	Score: -1978.79934399
+Episode 290:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 8026
+	Score: -1985.36880894
+Episode 291:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 8037
+	Score: 207.975956015
+Episode 292:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 8082
+	Score: 222.603268685
+Episode 293:
+	Start!
+	New goal at 1.5, -0.5!
+reset weights
+ Reached Goal!
+	Total Step: 8115
+	Score: 229.041412505
+Episode 294:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 8133
+	Score: -1984.5516297
+Episode 295:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 8149
+	Score: 212.377730963
+Episode 296:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 8162
+	Score: -1989.45074532
+Episode 297:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 8176
+	Score: 211.636704029
+Episode 298:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 8189
+	Score: 208.540608424
+Episode 299:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 8203
+	Score: 211.760537146
+Using hyperparams: {'Epsilon Decay': 0.992, 'Crash Penalty': -2000, 'Epsilon Initial': 1, 'Reward Direction': True, 'Optimizer': <class 'tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop'>, 'Memory Length': 1000000, 'First Activation': <function relu at 0x7f444fa2b950>, 'Loss': <tensorflow.python.keras.losses.Huber object at 0x7f4446e11ed0>, 'State Space': 23, 'Last Activation': <function linear at 0x7f444fa2bbd0>, 'Scan Ratio': 18, 'Batch Size': 100, 'Double Q Network': True, 'Gamma': 0.99, 'Direction Scalar': 1, 'Max Scan Range': 1, 'Load Model': False, 'Hidden Activations': <function relu at 0x7f444fa2b950>, 'Learning Rate': 0.0002, 'Scan Reward Scaler': 1, 'Initializer': <tensorflow.python.ops.init_ops.VarianceScaling object at 0x7f4446e11e90>, 'Episodes': 300, 'Epsilon Min': 0.05, 'Goal Reward': 200, 'Reset Target': 2000, 'Episode Length': 350}
+Episode 0:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 113
+	Score: -1972.70048387
+Episode 1:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 141
+	Score: -2007.73817654
+Episode 2:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 151
+	Score: -1995.43822369
+Episode 3:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 199
+	Score: 206.056119195
+Episode 4:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 254
+	Score: -2004.49990018
+Episode 5:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 282
+	Score: -1995.38334175
+Episode 6:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 363
+	Score: -2005.40971629
+Episode 7:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 370
+	Score: 200.877351051
+Episode 8:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 454
+	Score: -1993.09478722
+Episode 9:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 490
+	Score: -2002.00979613
+Episode 10:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 511
+	Score: -1997.24553974
+Episode 11:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 534
+	Score: -2003.76380214
+Episode 12:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 541
+	Score: -2002.20091995
+Episode 13:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 566
+	Score: -2003.3207964
+Episode 14:
+	Start!
+	New goal at -1.5, 0.5!
+	Crashed!
+	Total Step: 628
+	Score: -2004.12123006
+Episode 15:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 710
+	Score: -1996.67935315
+Episode 16:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 742
+	Score: -2003.68083698
+Episode 17:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 746
+	Score: 201.647859129
+Episode 18:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 778
+	Score: 202.071785883
+Episode 19:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 865
+	Score: -2004.73246531
+Episode 20:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 891
+	Score: -2001.07308558
+Episode 21:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 942
+	Score: -1997.35414496
+Episode 22:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 1039
+	Score: -2004.49747925
+Episode 23:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 1058
+	Score: -2001.47089164
+Episode 24:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 1072
+	Score: 201.554345374
+Episode 25:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 1117
+	Score: -2002.55409888
+Episode 26:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1161
+	Score: -1992.99288896
+Episode 27:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 1164
+	Score: 200.89404713
+Episode 28:
+	Start!
+	New goal at -1.5, -0.5!
+	Crashed!
+	Total Step: 1191
+	Score: -2003.78673454
+Episode 29:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 1215
+	Score: -2003.42886896
+Episode 30:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1252
+	Score: -1992.1864925
+Episode 31:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 1314
+	Score: -1997.49761168
+Episode 32:
+	Start!
+	New goal at -1.5, -0.5!
+	Crashed!
+	Total Step: 1410
+	Score: -2000.95695231
+Episode 33:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 1466
+	Score: -2003.31865206
+Episode 34:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1518
+	Score: -2006.34688912
+Episode 35:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1549
+	Score: -2004.55136233
+Episode 36:
+	Start!
+	New goal at -1.5, 0.5!
+	Crashed!
+	Total Step: 1561
+	Score: -2004.9925101
+Episode 37:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 1664
+	Score: -2001.5953487
+Episode 38:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 1678
+	Score: -1995.71001614
+Episode 39:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 1710
+	Score: -2003.71569063
+Episode 40:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 1729
+	Score: -2003.23667387
+Episode 41:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 1758
+	Score: -1993.06939167
+Episode 42:
+	Start!
+	New goal at -1.5, -0.5!
+	Crashed!
+	Total Step: 1789
+	Score: -2007.42824067
+Episode 43:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1798
+	Score: -2002.4863536
+Episode 44:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1836
+	Score: -1992.21165611
+Episode 45:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 1849
+	Score: -2003.04941267
+Episode 46:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 1868
+	Score: -1994.69879723
+Episode 47:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1908
+	Score: -1993.2382889
+Episode 48:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 1928
+	Score: -2001.05487908
+Episode 49:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 1964
+	Score: -1987.45571622
+Episode 50:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 1989
+	Score: -2001.41588044
+Episode 51:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 2090
+	Score: -2002.86016133
+Episode 52:
+	Start!
+	New goal at 0.5, 0.5!
+reset weights
+	Crashed!
+	Total Step: 2111
+	Score: -1999.89972068
+Episode 53:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 2178
+	Score: -2006.2815963
+Episode 54:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 2219
+	Score: -1997.47246933
+Episode 55:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 2261
+	Score: -1994.99326863
+Episode 56:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2315
+	Score: -2001.32183007
+Episode 57:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 2331
+	Score: -2002.78850405
+Episode 58:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 2383
+	Score: -2010.67961483
+Episode 59:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 2401
+	Score: 206.144362804
+Episode 60:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 2411
+	Score: 201.790521298
+Episode 61:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 2414
+	Score: 200.947939831
+Episode 62:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 2422
+	Score: -2000.98110904
+Episode 63:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 2443
+	Score: -1999.30916863
+Episode 64:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 2484
+	Score: -2000.02302646
+Episode 65:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 2568
+	Score: -1991.34314811
+Episode 66:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 2689
+	Score: -2002.70189429
+Episode 67:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 2724
+	Score: -1994.42418264
+Episode 68:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 2747
+	Score: -1993.49616236
+Episode 69:
+	Start!
+	New goal at -1.5, -0.5!
+	Crashed!
+	Total Step: 2754
+	Score: -1999.19631956
+Episode 70:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 2803
+	Score: -1991.16723197
+Episode 71:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 2894
+	Score: -1996.33459931
+Episode 72:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 2933
+	Score: -1997.59977865
+Episode 73:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 3000
+	Score: -2001.21065273
+Episode 74:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 3033
+	Score: -1993.97599205
+Episode 75:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 3075
+	Score: -2000.79049198
+Episode 76:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 3100
+	Score: 206.241657292
+Episode 77:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 3134
+	Score: -2006.78980545
+Episode 78:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 3196
+	Score: -1990.21755418
+Episode 79:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 3248
+	Score: -1980.88619923
+Episode 80:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 3254
+	Score: 201.309713423
+Episode 81:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 3318
+	Score: -1991.74922893
+Episode 82:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 3353
+	Score: -1984.83047345
+Episode 83:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 3373
+	Score: -1994.93464659
+Episode 84:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 3479
+	Score: -1975.93951713
+Episode 85:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 3507
+	Score: -1985.57063287
+Episode 86:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3513
+	Score: 202.035411813
+Episode 87:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 3566
+	Score: -1993.74290829
+Episode 88:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 3656
+	Score: -1978.8815702
+Episode 89:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 3681
+	Score: -2001.50082265
+Episode 90:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 3728
+	Score: -1995.71424832
+Episode 91:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 3771
+	Score: -2000.70640479
+Episode 92:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 3808
+	Score: -1995.29973819
+Episode 93:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 3838
+	Score: -1997.59020692
+Episode 94:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 3845
+	Score: 200.856765272
+Episode 95:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 3866
+	Score: -2000.93820241
+Episode 96:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 3897
+	Score: -1998.06463123
+Episode 97:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 3914
+	Score: 200.531752799
+Episode 98:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 3956
+	Score: -1995.09784511
+Episode 99:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4058
+	Score: -1990.19574629
+Episode 100:
+	Start!
+	New goal at 1.5, -1.5!
+reset weights
+	Crashed!
+	Total Step: 4124
+	Score: -1992.22062885
+Episode 101:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 4133
+	Score: -1993.91932592
+Episode 102:
+	Start!
+	New goal at 1.5, -0.5!
+ Reached Goal!
+	Total Step: 4255
+	Score: 221.151043142
+Episode 103:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 4273
+	Score: 203.708262705
+Episode 104:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 4303
+	Score: -1988.82316424
+Episode 105:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 4368
+	Score: -1991.18215658
+Episode 106:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 4371
+	Score: 200.930756939
+Episode 107:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 4374
+	Score: 201.021197162
+Episode 108:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 4386
+	Score: -1995.11751431
+Episode 109:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 4396
+	Score: -1993.23363802
+Episode 110:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4458
+	Score: -1990.74558115
+Episode 111:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 4498
+	Score: -1990.59485877
+Episode 112:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 4508
+	Score: -1993.45859283
+Episode 113:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4528
+	Score: -1988.25078041
+Episode 114:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 4574
+	Score: -1991.62706982
+Episode 115:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 4587
+	Score: 200.787383882
+Episode 116:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 4640
+	Score: -1997.66202174
+Episode 117:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 4662
+	Score: -1993.30736234
+Episode 118:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4698
+	Score: -1991.83756106
+Episode 119:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 4710
+	Score: -1990.23821872
+Episode 120:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 4720
+	Score: 200.868005731
+Episode 121:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 4739
+	Score: -2000.03696333
+Episode 122:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4759
+	Score: -1986.33123684
+Episode 123:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 4793
+	Score: -1992.20065201
+Episode 124:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 4802
+	Score: 201.137774407
+Episode 125:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 4850
+	Score: -1985.46909559
+Episode 126:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4876
+	Score: -1990.4680693
+Episode 127:
+	Start!
+	New goal at 0.5, 0.5!
+ Reached Goal!
+	Total Step: 4922
+	Score: 213.057160605
+Episode 128:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 4958
+	Score: -1993.71858249
+Episode 129:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 4984
+	Score: -1988.96320278
+Episode 130:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5003
+	Score: 205.455058363
+Episode 131:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 5025
+	Score: -1993.95928142
+Episode 132:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 5036
+	Score: -1991.28288049
+Episode 133:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5054
+	Score: 206.717124348
+Episode 134:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 5133
+	Score: 213.600970336
+Episode 135:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 5156
+	Score: -1990.73899443
+Episode 136:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 5180
+	Score: -1983.19732622
+Episode 137:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5183
+	Score: 200.740761283
+Episode 138:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5207
+	Score: -1992.51205114
+Episode 139:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 5222
+	Score: 206.072550383
+Episode 140:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5225
+	Score: 200.846380098
+Episode 141:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 5285
+	Score: 217.417545235
+Episode 142:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5306
+	Score: -1992.79719552
+Episode 143:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 5322
+	Score: -1991.22680506
+Episode 144:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 5341
+	Score: 206.531153543
+Episode 145:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5352
+	Score: 201.031990422
+Episode 146:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 5375
+	Score: -1997.24925984
+Episode 147:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 5422
+	Score: -1990.90327353
+Episode 148:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 5458
+	Score: -1992.98053719
+Episode 149:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 5496
+	Score: 209.269320478
+Episode 150:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5529
+	Score: -1991.79604608
+Episode 151:
+	Start!
+	New goal at 0.5, 0.5!
+ Reached Goal!
+	Total Step: 5561
+	Score: 214.548451212
+Episode 152:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 5574
+	Score: -1992.47940672
+Episode 153:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 5590
+	Score: -1989.31459338
+Episode 154:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 5613
+	Score: -1991.30584974
+Episode 155:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 5627
+	Score: 208.598901738
+Episode 156:
+	Start!
+	New goal at 1.5, -0.5!
+ Reached Goal!
+	Total Step: 5690
+	Score: 221.341699511
+Episode 157:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5698
+	Score: 201.532987056
+Episode 158:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5714
+	Score: -1995.32181953
+Episode 159:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 5735
+	Score: -1989.67139558
+Episode 160:
+	Start!
+	New goal at -0.5, -0.5!
+	Crashed!
+	Total Step: 5764
+	Score: -2001.83629555
+Episode 161:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 5786
+	Score: -1993.44730864
+Episode 162:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 5790
+	Score: 201.460069677
+Episode 163:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 5802
+	Score: 200.488948027
+Episode 164:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 5821
+	Score: -1992.00138177
+Episode 165:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 5835
+	Score: 206.01594673
+Episode 166:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 5845
+	Score: -1992.8041888
+Episode 167:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 5865
+	Score: -1993.23466368
+Episode 168:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 5892
+	Score: -1996.24899104
+Episode 169:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 5917
+	Score: -1991.1793488
+Episode 170:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 5962
+	Score: 216.903458749
+Episode 171:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 5982
+	Score: -1989.79990413
+Episode 172:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 6009
+	Score: 211.121116585
+Episode 173:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6033
+	Score: 202.085303531
+Episode 174:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6043
+	Score: -1992.39947666
+Episode 175:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6046
+	Score: 201.008504758
+Episode 176:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6049
+	Score: 200.962315094
+Episode 177:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6057
+	Score: 201.712837141
+Episode 178:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6067
+	Score: -1991.29762715
+Episode 179:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6079
+	Score: 206.018446536
+Episode 180:
+	Start!
+	New goal at -0.5, -0.5!
+reset weights
+ Reached Goal!
+	Total Step: 6106
+	Score: 206.606359057
+Episode 181:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 6160
+	Score: 216.447926484
+Episode 182:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6165
+	Score: 201.295149385
+Episode 183:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6175
+	Score: -1991.0423211
+Episode 184:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6178
+	Score: 200.825568863
+Episode 185:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6185
+	Score: 200.861290795
+Episode 186:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 6218
+	Score: 216.575147081
+Episode 187:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 6238
+	Score: -1998.35208622
+Episode 188:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 6272
+	Score: 217.517880812
+Episode 189:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6303
+	Score: 207.248928401
+Episode 190:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6320
+	Score: -1993.99619212
+Episode 191:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 6348
+	Score: -1994.2185148
+Episode 192:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 6381
+	Score: -1977.12531591
+Episode 193:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6393
+	Score: -1993.5085295
+Episode 194:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6428
+	Score: -1982.62369366
+Episode 195:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 6454
+	Score: -1995.56519948
+Episode 196:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6457
+	Score: 200.933017859
+Episode 197:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 6487
+	Score: -1987.08302917
+Episode 198:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 6517
+	Score: 211.769776298
+Episode 199:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6521
+	Score: 201.469038006
+Episode 200:
+	Start!
+	New goal at -1.5, 1.5!
+	Crashed!
+	Total Step: 6529
+	Score: -1995.1324554
+Episode 201:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6537
+	Score: -1995.95670722
+Episode 202:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6564
+	Score: -1985.52370434
+Episode 203:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 6578
+	Score: -1991.14976949
+Episode 204:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 6587
+	Score: -1993.50911833
+Episode 205:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6597
+	Score: -1992.63056393
+Episode 206:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6611
+	Score: -1991.72203679
+Episode 207:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 6630
+	Score: -1992.83943487
+Episode 208:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6647
+	Score: -1987.63366327
+Episode 209:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6653
+	Score: 201.046809359
+Episode 210:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6659
+	Score: 200.597582918
+Episode 211:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 6669
+	Score: -1992.11278452
+Episode 212:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 6679
+	Score: -1994.35896418
+Episode 213:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6697
+	Score: 207.2106286
+Episode 214:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 6706
+	Score: 206.328215926
+Episode 215:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 6719
+	Score: -1991.12676987
+Episode 216:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 6733
+	Score: -1993.77620937
+Episode 217:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6763
+	Score: -1983.56912078
+Episode 218:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6768
+	Score: 200.932178595
+Episode 219:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6771
+	Score: 200.790212001
+Episode 220:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 6807
+	Score: 217.148225129
+Episode 221:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 6819
+	Score: 206.559522774
+Episode 222:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 6848
+	Score: 217.502685772
+Episode 223:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 6859
+	Score: 206.324212707
+Episode 224:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 6877
+	Score: -1991.8394186
+Episode 225:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 6887
+	Score: -1994.53317447
+Episode 226:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6901
+	Score: -1992.75102978
+Episode 227:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 6924
+	Score: -1991.16988435
+Episode 228:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 6946
+	Score: -1991.82249814
+Episode 229:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 6951
+	Score: 200.692111458
+Episode 230:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 6963
+	Score: -1989.0568008
+Episode 231:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 6973
+	Score: -1992.45957688
+Episode 232:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 6989
+	Score: 212.049302757
+Episode 233:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 6993
+	Score: 201.612398574
+Episode 234:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7018
+	Score: -1990.61896231
+Episode 235:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7029
+	Score: -1990.72361991
+Episode 236:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7042
+	Score: -1991.7274943
+Episode 237:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7064
+	Score: 206.944158645
+Episode 238:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7075
+	Score: 206.554472804
+Episode 239:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7084
+	Score: 206.412193437
+Episode 240:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 7104
+	Score: -1994.38400298
+Episode 241:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 7120
+	Score: 209.763925007
+Episode 242:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7152
+	Score: -1982.23380062
+Episode 243:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7163
+	Score: 206.986112047
+Episode 244:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7167
+	Score: 201.547096811
+Episode 245:
+	Start!
+	New goal at 0.5, -1.5!
+ Reached Goal!
+	Total Step: 7196
+	Score: 217.904416413
+Episode 246:
+	Start!
+	New goal at 1.5, -0.5!
+	Crashed!
+	Total Step: 7210
+	Score: -1987.95179287
+Episode 247:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 7223
+	Score: -1992.82117629
+Episode 248:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 7240
+	Score: -1991.79484416
+Episode 249:
+	Start!
+	New goal at 1.5, -0.5!
+ Reached Goal!
+	Total Step: 7276
+	Score: 223.191333542
+Episode 250:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 7300
+	Score: 218.415664241
+Episode 251:
+	Start!
+	New goal at 0.5, -0.5!
+	Crashed!
+	Total Step: 7312
+	Score: -1989.17299999
+Episode 252:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7316
+	Score: 201.103893054
+Episode 253:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 7333
+	Score: -1993.75171204
+Episode 254:
+	Start!
+	New goal at -1.5, -0.5!
+ Reached Goal!
+	Total Step: 7336
+	Score: 201.080735157
+Episode 255:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7347
+	Score: 206.657658721
+Episode 256:
+	Start!
+	New goal at -0.5, 0.5!
+	Crashed!
+	Total Step: 7357
+	Score: -1994.95368876
+Episode 257:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 7386
+	Score: -1983.1552472
+Episode 258:
+	Start!
+	New goal at 1.5, -0.5!
+ Reached Goal!
+	Total Step: 7416
+	Score: 222.396262676
+Episode 259:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7451
+	Score: -1984.70256085
+Episode 260:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7464
+	Score: -1994.06021304
+Episode 261:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 7474
+	Score: -1993.77089431
+Episode 262:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7484
+	Score: -1993.08121319
+Episode 263:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 7525
+	Score: 214.19134395
+Episode 264:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7535
+	Score: -1991.38268816
+Episode 265:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7562
+	Score: -1982.60544553
+Episode 266:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7572
+	Score: 206.835956
+Episode 267:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 7599
+	Score: 208.51808503
+Episode 268:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7611
+	Score: -1992.10827212
+Episode 269:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7619
+	Score: 206.029981623
+Episode 270:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7641
+	Score: 206.201047498
+Episode 271:
+	Start!
+	New goal at 0.5, -0.5!
+ Reached Goal!
+	Total Step: 7670
+	Score: 214.564281042
+Episode 272:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7682
+	Score: -1990.15111147
+Episode 273:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 7698
+	Score: 209.689282932
+Episode 274:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7731
+	Score: -1973.52540952
+Episode 275:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 7741
+	Score: -1992.77086341
+Episode 276:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7765
+	Score: -1987.33159982
+Episode 277:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7779
+	Score: -1994.40454498
+Episode 278:
+	Start!
+	New goal at 1.5, 0.5!
+	Crashed!
+	Total Step: 7788
+	Score: -1992.40188348
+Episode 279:
+	Start!
+	New goal at -0.5, -0.5!
+ Reached Goal!
+	Total Step: 7801
+	Score: 206.033072867
+Episode 280:
+	Start!
+	New goal at 0.5, 1.5!
+	Crashed!
+	Total Step: 7812
+	Score: -1991.80928112
+Episode 281:
+	Start!
+	New goal at -0.5, -1.5!
+ Reached Goal!
+	Total Step: 7828
+	Score: 211.648010209
+Episode 282:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 7838
+	Score: -1992.89723562
+Episode 283:
+	Start!
+	New goal at -1.5, -1.5!
+	Crashed!
+	Total Step: 7849
+	Score: -1994.79809366
+Episode 284:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 7853
+	Score: 201.348966653
+Episode 285:
+	Start!
+	New goal at -0.5, 1.5!
+	Crashed!
+	Total Step: 7860
+	Score: -1994.52312514
+Episode 286:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7870
+	Score: -1992.9725207
+Episode 287:
+	Start!
+	New goal at 1.5, 1.5!
+	Crashed!
+	Total Step: 7897
+	Score: -1978.42398949
+Episode 288:
+	Start!
+	New goal at -0.5, 0.5!
+ Reached Goal!
+	Total Step: 7909
+	Score: 207.114374922
+Episode 289:
+	Start!
+	New goal at 0.5, 1.5!
+ Reached Goal!
+	Total Step: 7932
+	Score: 217.701381386
+Episode 290:
+	Start!
+	New goal at -1.5, -1.5!
+ Reached Goal!
+	Total Step: 7947
+	Score: 209.162149678
+Episode 291:
+	Start!
+	New goal at 1.5, -1.5!
+	Crashed!
+	Total Step: 7969
+	Score: -1986.75370116
+Episode 292:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 7979
+	Score: -1992.26425377
+Episode 293:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 7993
+	Score: -1991.14554977
+Episode 294:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 8002
+	Score: -1993.32879044
+Episode 295:
+	Start!
+	New goal at -0.5, -1.5!
+	Crashed!
+	Total Step: 8015
+	Score: -1990.69544739
+Episode 296:
+	Start!
+	New goal at -1.5, 0.5!
+ Reached Goal!
+	Total Step: 8019
+	Score: 201.598700013
+Episode 297:
+	Start!
+	New goal at -1.5, 1.5!
+ Reached Goal!
+	Total Step: 8034
+	Score: 208.949734083
+Episode 298:
+	Start!
+	New goal at 0.5, 0.5!
+	Crashed!
+	Total Step: 8047
+	Score: -1989.22785623
+Episode 299:
+	Start!
+	New goal at 0.5, -1.5!
+	Crashed!
+	Total Step: 8057
+	Score: -1993.05705328
+/home/abby/anaconda3/envs/tur/lib/python2.7/site-packages/matplotlib/cbook/deprecation.py:107: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+  warnings.warn(message, mplDeprecation, stacklevel=1)
